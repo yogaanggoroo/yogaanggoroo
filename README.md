@@ -6,7 +6,7 @@ Saya seorang **Mahasiswa** di [Institut Teknologi Perusahaan Listrik Negara](htt
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [GitHub](https://github.com/yogaanggoroo)ku ya
 
-📫 Email pribadi saya (firdausyogaanggoro@gmail.com)
+Email pribadi saya (firdausyogaanggoro@gmail.com)
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
