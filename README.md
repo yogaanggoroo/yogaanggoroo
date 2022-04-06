@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Firdaus Yoga Anggoro**.\
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
+Saya seorang **Mahasiswa** di [Institut Teknologi Perusahaan Listrik Negara](https://itpln.ac.id/).\
 
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
